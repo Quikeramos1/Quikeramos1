@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy [Quike], Desarrollador Full Stack Junior
+# ¡Hola! 👋 Soy [Quike](https://www.linkedin.com/in/quikeramos1/), Desarrollador Full Stack Junior
 
 ¡Bienvenido a mi rincón en GitHub! Soy un apasionado desarrollador de software con aproximadamente 8 meses de experiencia. Mi enfoque principal es en el desarrollo full stack, utilizando tecnologías como Python, HTML y JavaScript. Además, estoy constantemente aprendiendo y explorando nuevos lenguajes de programación para ampliar mis habilidades.
 
