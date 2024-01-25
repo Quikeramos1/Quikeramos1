@@ -40,3 +40,7 @@ Aquí tienes algunos proyectos en los que he trabajado recientemente:
 - 📧 [Correo Electrónico](mailto:quikeramos1@mac.com)
 
 ¡Gracias por visitar mi perfil! Espero que encuentres interesantes mis proyectos y contribuciones. 😊
+
+<p align="center">
+  <img src="img.jpeg" />
+</p>    
